@@ -6,11 +6,12 @@ Welcome to my GitHub profile page!
   - Name: Michael S. Collier
   - Location: Ohio, U.S.A.
   - My Personal Blog: [michaelscollier.com](https://www.michaelscollier.com)
-  - LinkedIn: [linkedin.com/in/mcollier](https://www.linkedin.com/in/mcollier)
   
 ## - 📫 How to reach me:
   
-  - Twitter: [@michaelcollier](https://twitter.com/michaelcollier)
+  - [LinkedIn](https://www.linkedin.com/in/mcollier)
+  - [Twitter](https://twitter.com/michaelcollier)
+  - <a rel="me" href="https://hachyderm.io/@michaelcollier">Mastodon</a>
 
 ## - 💬 Ask me about:
   - Azure Functions

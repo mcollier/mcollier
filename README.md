@@ -11,14 +11,15 @@ Welcome to my GitHub profile page!
   
   - [LinkedIn](https://www.linkedin.com/in/mcollier)
   - [Twitter](https://twitter.com/michaelcollier)
-  - <a rel="me" href="https://hachyderm.io/@michaelcollier">Mastodon</a>
+  - [BlueSky](https://bsky.app/profile/michaelcollier.bsky.social)
+  - [Mastadon](https://hachyderm.io/@michaelcollier)
 
 ## - 💬 Ask me about:
   - Azure Functions
   - Serverless computing
 
 ## - 🔭 I’m currently working on:
-  - Building awesome solutions for Microsoft
+  - Building awesome Azure solutions!
 
 <!--
 **mcollier/mcollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

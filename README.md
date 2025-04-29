@@ -11,7 +11,7 @@ Welcome to my GitHub profile page!
   
   - [LinkedIn](https://www.linkedin.com/in/mcollier)
   - [Twitter](https://twitter.com/michaelcollier)
-  - [BlueSky](https://bsky.app/profile/michaelcollier.bsky.social)
+  - [BlueSky](https://bsky.app/profile/michaelscollier.com)
   - [Mastadon](https://hachyderm.io/@michaelcollier)
 
 ## - 💬 Ask me about:
